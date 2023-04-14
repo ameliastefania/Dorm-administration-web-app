@@ -1,0 +1,16 @@
+export const LOGIN_URL = '/login';
+export const REFRESH_URL = '/refresh'
+export const LOGOUT_URL = '/logOut'
+export const getUserById_URL='/getUserById'
+export const rutaCreareDoleanta = '/creareDoleanta'
+export const modificareDoleanta = '/updateDoleante'
+export const getCereri = '/getDoleante'
+export const getCereriSixMonths='/getDoleanteSortate'
+export const creareDescriere= "/updateDescriereCandidat"
+export const getUsers="/getUsers"
+export const getCandidati="/getCandidati"
+export const voteazaSef="/voteazaSef"
+export const getStudenti = '/getStudenti'
+export const getAllCereri='/getAllCereri'
+export const updateDoleanteByAdmin = '/updateDoleanteByAdmin'
+export const getListaStatusCereri = '/getListaStatusCereri'
